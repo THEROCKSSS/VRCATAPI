@@ -1,8 +1,8 @@
 {
     "discord": {
         "webhooks": [
-            "https://discord.com/api/webhooks/1370906983472959488/DFEX4SUaBgTuL1AXx6ybJW5a4zeVQ10uURdBY6NFHDUq2WlYid8iyGzBTO11i0lux5TH",
-            "https://discord.com/api/webhooks/1371710766088065024/gpvDWg_qxgSFk3skuPr4YbfhtNrxoZSEmS8jDo14rkZSIY28t-5CJ4AHhu2mCtj6Zj7q"
+            "https://discord.com/api/webhooks/YOUR-OWN/YOUR-OWN",
+            "https://discord.com/api/webhooks/YOUR-OWN/YOUR-OWN"
         ],
         "enabled": true
     },
